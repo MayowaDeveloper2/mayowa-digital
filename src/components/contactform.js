@@ -44,12 +44,12 @@ const ContactForm = () => {
 
   return (
     <>
-      <div className="my-mother xs-down-10">
+      <div className="my-mother down-3 xs-down-10">
        <div className="my-col-10"> 
         <div className="centered">BOOK A CALL TODAY</div>
-        <div className="xs-off-1 xs-10">Send us your contact details and a brief outlibe of what you might need, and we'll be in touch within 12 hours.</div>
+        <div className="xs-off-1 centered xs-10">Send us your contact details and a brief outlibe of what you might need, and we'll be in touch within 12 hours.</div>
         <form onSubmit={handleSubmit}>
-          <div className="input-area">
+          <div className="off-4 input-area">
             <div className="name-area">
               <input
                 onChange={(e) => setFullName(e.target.value)}
@@ -96,7 +96,7 @@ const ContactForm = () => {
               ></textarea>
             </div>
           </div>
-          <button>Send</button>
+          <button className="button">Send</button>
         </form>
       </div>
      </div>

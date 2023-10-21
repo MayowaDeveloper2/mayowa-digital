@@ -26,7 +26,7 @@ const Home = () => {
         <div className="white px13 off-1 xs-off-1 xs-down-1 down-1">We are here because we consistently deliver satisfaction. If you're looking for a digital marketing agency that can help 
                                      your achieve your  goals, then we're the perfect choice for you.</div>
         <div className="my-col-2 xs-4 xs-down-3 xs-off-4 off-1 down-2">
-            <div className=" centered roundbox px10 down-2">READ MORE</div>
+            <div className="centered roundbox px10 down-2">READ MORE</div>
         </div>
      </div>
     </div>
@@ -41,9 +41,9 @@ const Home = () => {
     </div>
     <div className="my-col-3 frontbox down-1">
       <div className="my-container">
-        <div className="my-col-5 down-5">
+        <div className="my-col-11 down-5">
           <div className="white off-1 xs-off-1 xs-down-2 px15 down-2">Digital Marketing</div>
-          <div className="px13 off-1 xs-off-1 textdown white">Learn more <i className='mg-3 fas fa-thin fa-arrow-right'/><i className="mg-9 px30 white fas fa-solid fa-chart-simple" /></div>
+          <div className="px13 off-1 xs-off-1 textdown1 white">Learn more <i className='mg-3 fas fa-thin fa-arrow-right'/><i className="iconleft1 px30 white fas fa-solid fa-chart-simple" /></div>
         </div>
 
       </div>
@@ -51,9 +51,9 @@ const Home = () => {
     </div>
     <div className="my-col-3 xs-down-3 greenbox down-1">
       <div className="my-container">
-        <div className="my-col-5 down-5">
+        <div className="my-col-11 down-5">
           <div className="off-1 xs-off-1 xs-down-2 black px15">Web Development</div>
-          <div className="off-1 xs-off-1 px13 textdown black">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/> <i className="mg-9 px30 black fas fa-solid fa-terminal" /></div>
+          <div className="off-1 xs-off-1 px13 textdown black">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/> <i className="iconleft px30 black fas fa-solid fa-terminal" /></div>
         </div>
 
       </div>
@@ -61,9 +61,9 @@ const Home = () => {
     </div>
     <div className="my-col-3 purplebox xs-down-3 down-1">
       <div className="my-container">
-        <div className="my-col-7 down-5">
+        <div className="my-col-11 down-5">
           <div className="black off-1 xs-off-1 xs-down-2 px15">SEO & Content Writing</div>
-          <div className="off-1 xs-off-1 px13 textdown black">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/> <i className="mg-9 px30 black fa-brands fa-searchengin" /></div>
+          <div className="off-1 xs-off-1 px13 textdown black">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/> <i className="iconleft px30 black fa-brands fa-searchengin" /></div>
         </div>
 
       </div>
@@ -71,7 +71,7 @@ const Home = () => {
     </div>
     <div className="my-col-3 yellowfrontbox xs-down-3 down-2">
       <div className="my-container">
-        <div className="my-col-7 down-5">
+        <div className="my-col-11 down-5">
           <div className="off black xs-off-1 xs-down-2 px15">Social Media Management</div>
           <div className="off xs-off-1 px13 textdown black">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/><i className="mg-95 px30 black fas fa-solid fa-star-of-life" /></div>
         </div>
@@ -81,9 +81,9 @@ const Home = () => {
     </div>
     <div className="my-col-3 darkgreenbox xs-down-3 down-2">
       <div className="my-container">
-        <div className="my-col-5 down-5">
+        <div className="my-col-11 down-5">
           <div className="off-1 xs-off-1 xs-down-2 white px15">UI/UX Design</div>
-          <div className="off-1 xs-off-1 px13 textdown white">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/><i className="mg-9 px30 white fas fa-solid fa-palette" /></div>
+          <div className="off-1 xs-off-1 px13 textdown white">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/><i className="mg-85 px30 white fas fa-solid fa-palette" /></div>
         </div>
 
       </div>
@@ -91,9 +91,9 @@ const Home = () => {
     </div>
     <div className="off-1 my-col-3 redbox xs-down-3 down-2">
       <div className="my-container">
-        <div className="my-col-5 down-5">
+        <div className="my-col-11 down-5">
           <div className="off-1 xs-off-1 xs-down-2 white px15">Event Coverage</div>
-          <div className="off-1 xs-off-1 px13 textdown white">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/><i className="mg-9 px30 white fas fa-solid fa-video" /></div>
+          <div className="off-1 xs-off-1 px13 textdown white">Learn more <i className='mg-3 fas fa-solid fa-arrow-right'/><i className="mg-85 px30 white fas fa-solid fa-video" /></div>
         </div>
 
       </div>
